@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Soodeh 👋
 
-<!--
-**soodeh-mzf/soodeh-mzf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer with extensive experience building scalable,
+secure, and high-performance applications in banking and digital payments.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- Java 11/17
+- Spring Boot, Spring Framework, Spring Batch
+- Microservices & REST APIs
+- Apache Kafka
+- PostgreSQL, Oracle, MongoDB
+- AWS & Microsoft Azure
+- Docker & Kubernetes
+- JUnit, Mockito
+- GitHub Actions & Jenkins
